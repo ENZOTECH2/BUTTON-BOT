@@ -1,5 +1,5 @@
 <p align="center">  
-  <a href="https://files.catbox.moe/qck6sr.jpg">
+  <a href="https://i.ibb.co/bByc95z/1680860069-1290-x-2796.jpg">
     <img alt="secktor docs" height="300" src="https://files.catbox.moe/qck6sr.jpg">
     <h1 align="center"> ENZO MD MADE BY KIPROTICH</h1>
   </a>
