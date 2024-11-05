@@ -97,7 +97,7 @@
 
 > System Features
 
-- **Multi-Platform Support**: The POOKID bot is designed to be integrated with multiple platforms, including WhatsApp, Telegram, Slack, and others. 
+- **Multi-Platform Support**: The ENZO bot is designed to be integrated with multiple platforms, including WhatsApp, Telegram, Slack, and others. 
 
 
 - **Parallel Conversation Support**: The bot is highly scalable and can handle a large number of conversations for multiple users parallel. 
