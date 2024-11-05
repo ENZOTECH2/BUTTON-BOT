@@ -15,7 +15,7 @@ const alive = async (m, Matrix) => {
   const uptimeMessage = `╭─────═━┈┈━═──━┈⊷
 ┇ ʙᴏᴛ ɴᴀᴍᴇ: *𝗘𝗡𝗭𝗢-𝗠𝗗*
 ┇ ᴠᴇʀꜱɪᴏɴ: *7.1.0*     
-┇ ᴅᴇᴠ: *𝗣𝗢𝗣-𝗞𝗜𝗗*
+┇ ᴅᴇᴠ: *ENZO TECH*
 ╰─────═━┈┈━═──━┈⊷ 
 
 > *𝗘𝗡𝗭𝗢 𝗠𝗗 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦*
@@ -155,7 +155,7 @@ ${prefix}𝙻𝚢𝚛𝚒𝚌𝚜
             text: uptimeMessage
           }),
           footer: proto.Message.InteractiveMessage.Footer.create({
-            text: "© popkid"
+            text: "© enzo"
           }),
           header: proto.Message.InteractiveMessage.Header.create({
             title: "",
@@ -171,7 +171,7 @@ ${prefix}𝙻𝚢𝚛𝚒𝚌𝚜
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '254111385747',
+                  newsletterJid: '254784115308',
                   newsletterName: "ENZO MD",
                   serverMessageId: 143
                 }
