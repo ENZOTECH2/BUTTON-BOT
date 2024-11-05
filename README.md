@@ -18,9 +18,9 @@
 <a href="https://github.com/ENZOTECH2"><img title="Author" src="https://img.shields.io/badge/ENotech2-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254784115308"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Popkiddevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Popkiddevs?label=Followers&style=social"></a>
-<a href="https://github.com/Popkiddevs/POPKID-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Popkiddevs/POPKID-MD?&style=social"></a>
-<a href="https://github.com/Popkiddevs/POPKID-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Popkiddevs/POPKID-MD?style=social"></a>
+<a href="https://github.com/ENZOTECH2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ENZOTECH2?label=Followers&style=social"></a>
+<a href="https://github.com/ENZOTECH2/BUTTON-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ENZOTECH2/BUTTON-BOT?&style=social"></a>
+<a href="https://github.com/ENZOTECH2/BUTTON-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/ENZOTECH2/BUTTON-BOT?style=social"></a>
 <a href="https://github.com/Popkiddevs/POPKID-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Popkiddevs/POPKID-MD?label=Watching&style=social"></a>
 </p>></a>                     
 
