@@ -32,10 +32,10 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
     } = repoData;
 
     const messageText = `╭─────═━┈┈━═──━┈⊷
-┇ _ʙᴏᴛ ɴᴀᴍᴇ_ : *_𝗣𝗢𝗣𝗞𝗜𝗗-𝗠𝗗_*
+┇ _ʙᴏᴛ ɴᴀᴍᴇ_ : *_𝗘𝗡𝗭𝗢-𝗠𝗗_*
 ┇ _ᴠᴇʀꜱɪᴏɴ_ : *_7.1.0_*     
 ┇ _ᴘʟᴀᴛғᴏʀᴍ_ : *_ʟɪɴᴜx_*
-┇ _ᴅᴇᴠ_ : *_𝗠𝗥 𝗣𝗢𝗣𝗞𝗜𝗗_*
+┇ _ᴅᴇᴠ_ : *_𝗠𝗥 𝗘𝗡𝗭𝗢_*
 ┇ _ʀᴀᴍ_ : *_20GB.14GB_*
 ┇ _ᴅᴀɪʟʏ ᴜsᴇʀs_ : *${forks_count}*
 ┇ _ᴄʀᴇᴀᴛᴇᴅ ᴏɴ_ : *${new Date(created_at).toLocaleDateString()}*
@@ -54,12 +54,12 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
               text: messageText,
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: '💫𝗕𝗘𝗦𝗧 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧💫\n\n𝗠𝗔𝗗𝗘 𝗕𝗬 𝗜𝗔𝗡 𝗧𝗔𝗥𝗔𝗖𝗛𝗔',
+              text: '💫𝗕𝗘𝗦𝗧 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧💫\n\n𝗠𝗔𝗗𝗘 𝗕𝗬 𝗘𝗡𝗭𝗢 𝗞𝗜𝗣𝗥𝗢𝗧𝗜𝗖𝗛',
             }),
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
                 image: {
-                  url: 'https://i.ibb.co/Kwm5YLV/IMG-20241004-WA0011.jpg',
+                  url: 'https://i.ibb.co/bByc95z/1680860069-1290-x-2796.jpg',
                 },
               }, { upload: Matrix.waUploadToServer })),
               title: '',
@@ -87,21 +87,21 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: "📂 REPO",
-                    url: 'https://github.com/Popkiddevs/POPKID-MD',
+                    url: 'https://github.com/ENZOTECH2/BUTTON-BOT',
                   }),
                 },
                 {
                  name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: "📽 BOTS IMAGE",
-                    url: 'https://i.ibb.co/Kwm5YLV/IMG-20241004-WA0011.jpgl',
+                    url: 'https://i.ibb.co/bByc95z/1680860069-1290-x-2796.jpg',
                   }),
                 },
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: "🛰 WHATSAPP CHANNEL",
-                    url: 'https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l',
+                    url: 'https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D',
                   }),
                 },
               ],
