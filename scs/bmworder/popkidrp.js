@@ -11,7 +11,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
   const validCommands = ['repo', 'sc', 'script'];
 
   if (validCommands.includes(cmd)) {
-    const repoUrl = `https://api.github.com/repos/Popkiddevs/POPKID-MD`;
+    const repoUrl = `https://api.github.com/repos/ENZOTECH2/BUTTON-BOT`;
     
     await handleRepoCommand(m, Matrix, repoUrl);
   }
@@ -86,7 +86,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: 'Join Our Cchannel',
-                    url: 'https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l',
+                    url: 'https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D',
                   }),
                 },
               ],
