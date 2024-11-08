@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://i.ibb.co/bByc95z/1680860069-1290-x-2796.jpg">
     <img alt="secktor docs" height="300" src="https://i.ibb.co/bByc95z/1680860069-1290-x-2796.jpg">
-    <h1 align="center"> ENZO MD MADE BY KIPROTICH</h1>
+    <h1 align="center"> 𝔼ℕℤ𝕆-𝕄𝔻 𝕄𝔸𝔻𝔼 𝔹𝕐 𝔼ℕℤ𝕆</h1>
   </a>
 </p>  
   
@@ -41,7 +41,7 @@
 
 
 
-### 🧚‍♀️ENZO TECH💫
+### 🧚‍♀️𝙀𝙉𝙕𝙊 𝙏𝙀𝘾𝙃💫
 
 ***
 
